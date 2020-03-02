@@ -24,7 +24,7 @@ http://blog.olivewind.com
 
 #### 六：服务端编程(Node/Golang/Nginx)
 
-* [《Design Mistakes in Node》Node 之父 Ryan Dahl 演讲 PPT 中文版 (2018 JS Conf Berlin)](https://zhuanlan.zhihu.com/p/37637923)
+* [《Design Mistakes in Node》翻译](https://zhuanlan.zhihu.com/p/37637923)
 * [使用 Go 来入门 WebAssembly 开发](https://zhuanlan.zhihu.com/p/50189676)
 * [什么是 “Sinatra style syntax”？](https://zhuanlan.zhihu.com/p/73531136)
 
