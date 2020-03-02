@@ -9,6 +9,8 @@ http://blog.olivewind.com
 
 * [React 学习笔记](https://github.com/olivewind/practice-react-hooks)
 * [《领略 Angular 之美》](https://github.com/olivewind/angular-deep)
+* [一篇文章学会 Vue 项目单元测试](https://zhuanlan.zhihu.com/p/48758013)
+* [低调开源 Vue 组件库 DaoStyle](https://zhuanlan.zhihu.com/p/46603300)
 
 
 #### 三：移动/桌面端(Flutter/Electron)
@@ -22,6 +24,10 @@ http://blog.olivewind.com
 
 #### 六：服务端编程(Node/Golang/Nginx)
 
+* [《Design Mistakes in Node》Node 之父 Ryan Dahl 演讲 PPT 中文版 (2018 JS Conf Berlin)](https://zhuanlan.zhihu.com/p/37637923)
+* [使用 Go 来入门 WebAssembly 开发](https://zhuanlan.zhihu.com/p/50189676)
+* [什么是 “Sinatra style syntax”？](https://zhuanlan.zhihu.com/p/73531136)
+
 
 #### 七：云计算(Docker/K8S/Serverless)
 
@@ -29,3 +35,8 @@ http://blog.olivewind.com
 
 
 #### 八：工具(Git)
+
+#### 九：其它
+
+* [OKR 工作法](https://zhuanlan.zhihu.com/p/85453990)
+* [大家都在说的 RPA 是啥？](https://zhuanlan.zhihu.com/p/73478346)
