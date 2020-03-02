@@ -1,5 +1,7 @@
 # 一个前端工程师的学习记录
 
+http://blog.olivewind.com
+
 #### 一：前端编程基础(HTML/CSS/JS/TS)
 
 
@@ -27,11 +29,3 @@
 
 
 #### 八：工具(Git)
-
----
-
-联系我：
-
-邮箱：olivewind.wang@gmail.com
-
-知乎：[王力国](https://www.zhihu.com/people/san-huan-mei-you-shao/posts)
