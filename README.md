@@ -7,11 +7,10 @@
 
 #### 二：前端三大框架(React/Vue/Angular)
 
-* [React Hooks 完整学习笔记](https://github.com/olivewind/practice-react-hooks)
+* [React Hooks 完整学习笔记](https://github.com/olivewind/blog/issues/1)
 * [《领略 Angular 之美》](https://github.com/olivewind/angular-deep)
 * [一篇文章学会 Vue 项目单元测试](https://zhuanlan.zhihu.com/p/48758013)
 * [低调开源 Vue 组件库 DaoStyle](https://zhuanlan.zhihu.com/p/46603300)
-
 
 #### 三：移动/桌面端(Flutter/Electron)
 
