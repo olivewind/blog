@@ -1,0 +1,8 @@
+.app-container header {
+  padding: 10px;
+}
+
+.app-container header a {
+  display: inline-block;
+  margin-right: 10px;
+}
