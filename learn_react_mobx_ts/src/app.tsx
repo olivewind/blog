@@ -1,35 +1,16 @@
 import React from 'react';
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link
-} from 'react-router-dom';
-import {
-  UseState,
-} from './pages';
+import { Provider } from 'mobx-react';
+import Routers from './containers/routers';
+import { createStores } from './stores';
 import './app.css';
+
+const rootStore = createStores();
 
 function App() {
   return (
-    <Router>
-      <div className="app-container">
-        <header>
-          <Link to="/useState">useState</Link>
-        </header>
-        <hr />
-        <main style={{ padding: '20px' }}>
-          <Switch>
-            <Route exact path="/">
-              <UseState />
-            </Route>
-            <Route path="/useState">
-              <UseState />
-            </Route>
-          </Switch>
-        </main>
-      </div>
-    </Router>
+    <Provider {...rootStore}>
+      <Routers />
+    </Provider>
   );
 }
 
