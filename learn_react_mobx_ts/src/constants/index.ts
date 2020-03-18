@@ -1,6 +1,8 @@
 const ROUTES = {
   Home: '/',
-  TodoList: '/todo-list',
+  TodoListFn: '/todo-list-fn',
+  TodoListClass: '/todo-list-class',
+  RouterDemo: '/router-demo'
 };
 
 export {

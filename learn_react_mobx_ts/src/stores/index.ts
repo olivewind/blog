@@ -1,4 +1,5 @@
 
+import { createContext, useContext } from 'react';
 import { STORE_ROUTER, RouterStore, history } from './router';
 import { STORE_TODO, TodoStore } from './todo';
 
@@ -9,9 +10,32 @@ function createStores() {
   };
 }
 
+const stores = createStores();
+
+const StoresContext = createContext(stores);
+
+const useStores = () => useContext(StoresContext);
+
+function useTodoStore() {
+  const { todoStore } = useStores();
+  return todoStore;
+}
+
+function useRouterStore() {
+  const { routerStore } = useStores();
+  return routerStore;
+}
+
 export {
+  STORE_TODO,
   STORE_ROUTER,
   RouterStore,
+  TodoStore,
   createStores,
-  history
+  stores,
+  StoresContext,
+  history,
+  useStores,
+  useTodoStore,
+  useRouterStore,
 };
