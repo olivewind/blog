@@ -21,10 +21,13 @@
 
 #### 三：开源
 
-* [开源 React Hooks 库：@bixi/hooks](https://github.com/olivewind/bixi-hooks) 
-* [开源 Vue 组件库：DaoStyle](https://zhuanlan.zhihu.com/p/46603300)
-* [开源电子书《领略 Angular 之美》](https://github.com/olivewind/angular-deep) 
-* [awesome-deno(已交由官方维护)](https://github.com/olivewind/awesome-deno)
+* [@bixi/hooks: 经过生产考验的 React Hooks](https://github.com/olivewind/bixi-hooks) 
+* [DaoStyle: 基于 Vue.js 构建的高质量组件库](https://github.com/DaoCloud/dao-style)
+* [《领略 Angular 之美》: 电子书](https://github.com/olivewind/angular-deep) 
+* [awesome-deno: Deno 资源库(已交由官方维护)](https://github.com/olivewind/awesome-deno)
+* [cheers: 一个用于快速发布版本, 快速生成更新日志的命令行工具](https://github.com/olivewind/cheers)
+* [dir-scanner-webpack-plugin: 一个用于递归扫描目录文件的 Webpack 插件](https://github.com/olivewind/dir-scanner-webpack-plugin)
+* [stupid-env: 一个用于检查、快速切换、持久化环境变量的命令行工具](https://github.com/olivewind/stupid-env)
 
 
 #### 四：演讲
