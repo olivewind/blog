@@ -37,5 +37,11 @@
 #### 五：其它
 
 
+<br/><br/>
+
+可以通过以下方式联系我：
+* [知乎](https://www.zhihu.com/people/san-huan-mei-you-shao)
+* [Github](https://github.com/olivewind)
+* [邮箱](mailto:olivewind.wang@gmail.com)
 
 
