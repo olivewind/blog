@@ -42,6 +42,6 @@
 可以通过以下方式联系我：
 * [知乎](https://www.zhihu.com/people/san-huan-mei-you-shao)
 * [Github](https://github.com/olivewind)
-* [邮箱](mailto:olivewind.wang@gmail.com)
+* [邮箱: olivewind.wang@gmail.com](mailto:olivewind.wang@gmail.com)
 
 
