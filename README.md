@@ -24,7 +24,7 @@
 * [开源 React Hooks 库：@bixi/hooks](https://github.com/olivewind/bixi-hooks) 
 * [开源 Vue 组件库：DaoStyle](https://zhuanlan.zhihu.com/p/46603300)
 * [开源电子书《领略 Angular 之美》](https://github.com/olivewind/angular-deep) 
-* [awesome-deno(已交由官方维护)])(https://github.com/olivewind/awesome-deno/pull/13)
+* [awesome-deno(已交由官方维护)](https://github.com/olivewind/awesome-deno)
 
 
 #### 四：演讲
