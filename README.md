@@ -30,7 +30,7 @@
 
 * [极关技术沙龙上海站《大型 SPA 的前端架构演进史》](https://www.itdks.com/dakalive/detail/15324)
 
-#### 五：演讲
+#### 五：其它
 
 
 
