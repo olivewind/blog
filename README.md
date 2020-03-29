@@ -27,7 +27,11 @@
 
 #### 六：计算机知识
 
-#### 七：其它
+#### 七：演讲
+
+* [极关技术沙龙上海站《大型 SPA 的前端架构演进史》](https://www.itdks.com/dakalive/detail/15324)
+
+#### 八：其它
 
 * [OKR 工作法](https://zhuanlan.zhihu.com/p/85453990) 2019-10-07
 * [大家都在说的 RPA 是啥？](https://zhuanlan.zhihu.com/p/73478346) 2019-07-14
