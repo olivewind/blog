@@ -22,8 +22,8 @@
 #### 三：开源
 
 * [@bixi/hooks](https://github.com/olivewind/bixi-hooks) : 经过生产考验的 React Hooks
-* [DaoStyle](https://github.com/DaoCloud/dao-style): 基于 Vue.js 构建的高质量组件库
-* [《领略 Angular 之美》](https://github.com/olivewind/angular-deep): 深入 Angular 系列原创电子书
+* [dao-style](https://github.com/DaoCloud/dao-style): 基于 Vue.js 构建的高质量组件库
+* [angular-deep](https://github.com/olivewind/angular-deep): 深入 Angular 系列原创电子书《领略 Angular 之美》
 * [awesome-deno](https://github.com/olivewind/awesome-deno): Deno 资源库(已交由官方维护)
 * [cheers](https://github.com/olivewind/cheers): 一个用于快速发布版本, 快速生成更新日志的命令行工具
 * [dir-scanner-webpack-plugin](https://github.com/olivewind/dir-scanner-webpack-plugin): 一个用于递归扫描目录文件的 Webpack 插件
