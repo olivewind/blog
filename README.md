@@ -6,6 +6,7 @@
 
 #### 一：文章(技术)
 
+* [【翻译】现在可以开始使用 Angular12 了](https://github.com/olivewind/blog/issues/27) 2021-05-16
 * [过去三年使用前端框架的感受](https://github.com/olivewind/blog/issues/13) 2020-08-22
 * [编写可维护的前端代码](https://github.com/olivewind/blog/issues/8) 2020-05-17
 * [TypeScript 的 Infer 关键词](https://github.com/olivewind/blog/issues/7) 2020-04-18
