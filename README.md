@@ -35,9 +35,9 @@
 * [《领略 Angular 之美》](https://github.com/olivewind/angular-deep)
 
 #### 四：演讲
-* [2020.10.17  声网实时互联网大会 《编写可维护的前端代码》](https://app.ma.scrmtech.com/meetings/MeetingPc/Detail?pf_uid=14033_1616&id=24073)
-* [2020.08.29 前端早早聊大会《如何在创业公司获得快速晋升》](https://zaotalk.huodongxing.com/go/tl14)
-* [2020.10.17 极关技术沙龙上海站《大型 SPA 的前端架构演进史》](https://www.itdks.com/dakalive/detail/15324)
+* [声网实时互联网大会 《编写可维护的前端代码》](https://app.ma.scrmtech.com/meetings/MeetingPc/Detail?pf_uid=14033_1616&id=24073) 2020.10.17
+* [前端早早聊大会《如何在创业公司获得快速晋升》](https://zaotalk.huodongxing.com/go/tl14) 2020.08.29
+* [极关技术沙龙上海站《大型 SPA 的前端架构演进史》](https://www.itdks.com/dakalive/detail/15324) 2018.08.19
 
 #### 五：其它
 
