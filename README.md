@@ -12,7 +12,6 @@
 * [TypeScript 的 Infer 关键词](https://github.com/olivewind/blog/issues/7) 2020-04-18
 * [TypeScript Utility Types 源码阅读](https://github.com/olivewind/blog/issues/6) 2020-04-11
 * [使用 Mobx + Hooks 管理 React 应用状态](https://github.com/olivewind/blog/issues/5) 2020-03-18
-* 
 * [React Hooks 完整学习笔记](https://github.com/olivewind/blog/issues/1) 2020-03-10
 * [OKR 工作法](https://zhuanlan.zhihu.com/p/85453990) 2019-10-07
 * [大家都在说的 RPA 是啥？](https://zhuanlan.zhihu.com/p/73478346) 2019-07-14
